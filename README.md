@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### &#x1f4c8; My GitHub Stats
+#### 📈 My GitHub Stats
 
 <a href="https://github.com/0xAminED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAminED&show_icons=true&line_height=33&count_private=true&theme=dark" alt="0xAminED's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAminED&show_icons=true&line_height=33&count_private=true&theme=dark&cache_bust=1" alt="0xAminED's GitHub Stats" />
 </a>
 
 <a href="https://github.com/0xAminED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&hide=cmake&langs_count=4&line_height=35&theme=dark&cache_bust=1" alt="Top Langs by 0xAminED" />
 </a>
 
 <a href="https://github.com/0xAminED">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAminED&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAminED&theme=dark&cache_bust=1" alt="GitHub Streak by 0xAminED" />
 </a>
 
