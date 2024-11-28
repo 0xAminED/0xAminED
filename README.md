@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/0xAminED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&hide=cmake&langs_count=4&line_height=35&theme=dark&cache_bust=1" alt="Top Langs by 0xAminED" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&hide=cmake&langs_count=4&line_height=35&theme=dark&cache_bust=1" alt="Top Languages by 0xAminED" />
 </a>
 
 <a href="https://github.com/0xAminED">
