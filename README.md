@@ -13,3 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Welcome to My GitHub Profile! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=0xAminED&color=blue&style=flat)
+
+## 🚀 GitHub Stats
+
+![0xAminED's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAminED&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🏆 GitHub Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xAminED&theme=radical)
+
+## 🧑‍💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&langs_count=10&layout=compact&theme=radical)
