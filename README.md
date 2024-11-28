@@ -13,18 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My GitHub Profile! 👋
+# 🚀 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xAminED&color=blue&style=flat)
+### 📊 GitHub Profile Stats:
+![0xAminED's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAminED&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark)
 
-## 🚀 GitHub Stats
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xAminED&theme=monokai)
 
-![0xAminED's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAminED&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+### 💻 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&langs_count=10&layout=compact&theme=github_dark)
 
-## 🏆 GitHub Streaks
+### 📈 Contributions Graph:
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=0xAminED&theme=tokyo-night)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xAminED&theme=radical)
 
-## 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAminED&langs_count=10&layout=compact&theme=radical)
